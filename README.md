@@ -34,7 +34,7 @@
 
 協助後期: ~~[删庫不跑路]~~ omgpizzatnt
 
-> *collect &amp share by* **~~[主觀多樣性]~~**
+> *collect &amp; share by* **~~[主觀多樣性]~~**
 
 ![mtlogo](https://github.com/MTfloder/DimensionNoQuit/blob/main/181ef1e6899666bd.png)
 
