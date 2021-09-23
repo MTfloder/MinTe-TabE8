@@ -22,4 +22,16 @@
 
 > *鳴謝*
 
+整合:~~[神必pure0]~~
+
+視覺效果美工設計:蚊子
+
+發佈者:mt-Floder
+
+協助後期: ~~[删庫不跑路]~~ omgpizzatnt
+
+> *made by* **~~[主觀多樣性]~~**
+
+![mtlogo](https://github.com/MTfloder/DimensionNoQuit/blob/main/181ef1e6899666bd.png)
+
 p.s.分享的部分資源來自網絡和大佬們，可侵刪
