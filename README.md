@@ -1,6 +1,6 @@
 # MinTe-TabE8
 
-**敏特之光**
+**敏特之光** 自己動手，豐衣足食
 
 *Freedom &amp; Light of MinTe*
 
