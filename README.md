@@ -14,7 +14,11 @@
 
 [GitHub下载](https://github.com/MTfloder/MinTe-TabE8/releases)
 
-**輔助資源**（多個）僅輔助美化主題用途：[藍奏yun](https://wws.lanzoui.com/b026il7uf) ：密码:mtzg
+**輔助資源**
+
+僅含有輔助美化主題用途和獲得超級權限的文件
+
+[藍奏yun](https://wws.lanzoui.com/b026il7uf) ：密码:mtzg
 
 > *問題幫助*
 
@@ -30,7 +34,7 @@
 
 協助後期: ~~[删庫不跑路]~~ omgpizzatnt
 
-> *made by* **~~[主觀多樣性]~~**
+> *collect &amp share by* **~~[主觀多樣性]~~**
 
 ![mtlogo](https://github.com/MTfloder/DimensionNoQuit/blob/main/181ef1e6899666bd.png)
 
