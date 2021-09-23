@@ -14,7 +14,7 @@
 
 [GitHub下载](https://github.com/MTfloder/MinTe-TabE8/releases)
 
-**輔助資源**（多個）：[藍奏yun](https://wws.lanzoui.com/b026il7uf) ：密码:mtzg
+**輔助資源**（多個）僅輔助美化主題用途：[藍奏yun](https://wws.lanzoui.com/b026il7uf) ：密码:mtzg
 
 > *問題幫助*
 
