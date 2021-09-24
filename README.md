@@ -20,6 +20,10 @@
 
 [藍奏yun](https://wws.lanzoui.com/b026il7uf) ：密码:mtzg
 
+> *教程視頻*
+
+![在線教程](https://github.com/MTfloder/MinTe-TabE8/releases/download/rush.lenovo.tabe8.video_v1-stable/rush_lenovo_tabe8_video_720P.mp4)
+
 > *問題幫助*
 
 [答疑處](https://github.com/MTfloder/MinTe-TabE8/issues)
