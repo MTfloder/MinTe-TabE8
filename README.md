@@ -6,7 +6,7 @@
 
 ![效果預覽](https://github.com/MTfloder/MinTe-TabE8/blob/main/%E6%95%8F%E7%89%B9%E6%A1%8C%E9%9D%A27.0_%E6%97%A0%E5%AF%BC%E8%88%AA.png)
 
-#**請看完視頻教程，下載全資源後，再進行嘗試！**#
+# **請看完視頻教程，下載全資源後，再進行嘗試！**
 
 > *資源下載*
 
